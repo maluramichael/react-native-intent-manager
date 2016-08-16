@@ -16,22 +16,15 @@ The component has both iOS and Android support.
        * iOS:      [react-native-communications](https://github.com/anarchicknight/react-native-communications/blob/master/README.md)
    * SocialShare
 
-   ToDo:
-       - CalendarIntent
-       - MapIntent
-
 ### Installation
-1. Clone repository into node_modules directory of your project
+   1. Clone repository into node_modules directory of your project
 
 ### Properties
 
 ### Roadmap
 - [x] Android support
 - [x] iOS support
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] CalendarIntent
+- [ ] MapIntent
 
 ### Licence
