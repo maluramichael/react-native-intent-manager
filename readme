@@ -1,13 +1,13 @@
 This is a simple cross platform intent manager (Linking works for the most, but i figured out some issues with android when trying to use the mail intent via react-native Linking)
 
-    - BrowserIntent
-    - PhoneIntent
-    - SMSIntent
-    - MailIntent (Using react-native-mail for Android and react-native-communications for iOS)
-        - Android:  https://github.com/chirag04/react-native-mail/blob/master/README.md
-        - iOS:      https://github.com/anarchicknight/react-native-communications/blob/master/README.md
-    - SocialShare
+                       - BrowserIntent
+                       - PhoneIntent
+                       - SMSIntent
+                       - MailIntent (Using react-native-mail for Android and react-native-communications for iOS)
+                           - Android:  https://github.com/chirag04/react-native-mail/blob/master/README.md
+                           - iOS:      https://github.com/anarchicknight/react-native-communications/blob/master/README.md
+                       - SocialShare
 
-    ToDo:
-        - CalendarIntent
-        - MapIntent
+                       ToDo:
+                           - CalendarIntent
+                           - MapIntent
