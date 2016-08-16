@@ -54,7 +54,7 @@ export function MailIntent(config) {
 			}
 		}, (error, event) => {
 			if (error) {
-				alert('Error: Could not send mail. Please send a mail to info@camigo.info');
+				alert('Error: Could not send mail. Please send a mail to foo@foo.com');
 			}
 		});
 	} else {
