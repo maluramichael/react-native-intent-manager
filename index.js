@@ -2,13 +2,13 @@
  * import {BrowserIntent, PhoneIntent, SMSIntent, MailIntent, SocialShare} from './IntentManager';
  */
 import {
-	NativeModules,
 	Linking,
-	Platform
+	Platform,
+	NativeModules
 } from 'react-native';
 import Share from 'react-native-share';
 import Communications from 'react-native-communications';
-var Mailer = require('NativeModules').RNMail; // Mail Intent for Android
+const Mailer = NativeModules.RNMail; // Mail Intent for Android
 
 /**
  * @param url
